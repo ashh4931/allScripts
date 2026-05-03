@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dee351ef8feeed342903008c7c79f5c2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - armorOpenSound: {fileID: 8300000, guid: 8d97bbe2456a3bf4db1576b0531be91e, type: 3}
+  - armorCloseSound: {fileID: 8300000, guid: 7c8a2d092d07ee4488470d17d29b0881, type: 3}
+  - mainRenderer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

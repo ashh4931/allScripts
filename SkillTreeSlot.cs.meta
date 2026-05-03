@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 356ddded74ad4bc4ebf7bfd0a5178be1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - skillData: {instanceID: 0}
+  - iconImage: {instanceID: 0}
+  - unlockSoundEffect: {fileID: 8300000, guid: 4dbe9a2474a5ceb4a84b36751cea8a50, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

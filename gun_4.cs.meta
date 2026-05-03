@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1e63eac97d05ee54d89b559aff322498
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - muzzleFlashPrefab: {fileID: 2504214343621411470, guid: 0059871751a3d7940865e0d99d7ffce6, type: 3}
+  - bulletPrefab: {instanceID: 0}
+  - firePoint: {instanceID: 0}
+  - animator: {instanceID: 0}
+  - mainCamera: {instanceID: 0}
+  - fireSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

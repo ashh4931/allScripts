@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 53a4d187f6c8ba54d9f0e3624dd9c72b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fractureSound: {fileID: 8300000, guid: d23ed4c73e88cc342909ffe72169fb23, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

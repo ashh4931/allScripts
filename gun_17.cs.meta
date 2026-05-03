@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: aabb68dfbf583664a94ab9806e940a03
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - muzzleFlashPrefab: {fileID: 2504214343621411470, guid: 0059871751a3d7940865e0d99d7ffce6, type: 3}
+  - bulletPrefab: {fileID: 2635597944568856537, guid: c5733b8e05c852544a8917f2e3485f14, type: 3}
+  - firePoint: {instanceID: 0}
+  - animator: {instanceID: 0}
+  - fireSound: {fileID: 8300000, guid: 099a98bd88ad759478cb8fdbc1a6c35c, type: 3}
+  - spinLoopSound: {fileID: 8300000, guid: 22297346f1650844da485e92b5b34af2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
